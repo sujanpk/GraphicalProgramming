@@ -1,0 +1,329 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FinalAssignment</name>
+    </assembly>
+    <members>
+        <member name="F:GraphicalProgramming.Circle.x">
+            <summary>
+            Getting value for ellipse
+            </summary>
+        </member>
+        <member name="F:GraphicalProgramming.Circle.y">
+            <summary>
+            Getting value for ellipse
+            </summary>
+        </member>
+        <member name="F:GraphicalProgramming.Circle.size">
+            <summary>
+            Getting value for ellipse
+            </summary>
+        </member>
+        <member name="F:GraphicalProgramming.Circle.size1">
+            <summary>
+            Getting value for ellipse
+            </summary>
+        </member>
+        <member name="M:GraphicalProgramming.Circle.set(System.Int32,System.Drawing.Brush,System.Drawing.Color,System.Int32[])">
+            <summary>
+            Setting the required parameter for circle
+            </summary>
+            <param name="texturestyle">Define the texture</param>
+            <param name="bb">type of brush</param>
+            <param name="c1">color </param>
+            <param name="list">list of parameter that will be passed inside this function</param>
+        </member>
+        <member name="F:GraphicalProgramming.Form1._size1">
+            <summary>
+            variable to create triangle side
+            </summary>
+        </member>
+        <member name="F:GraphicalProgramming.Form1._size2">
+            <summary>
+            variable to create triangle side
+            </summary>
+        </member>
+        <member name="F:GraphicalProgramming.Form1._size3">
+            <summary>
+            variable to create triangle side
+            </summary>
+        </member>
+        <member name="F:GraphicalProgramming.Form1._size4">
+            <summary>
+            variable to create triangle side
+            </summary>
+        </member>
+        <member name="F:GraphicalProgramming.Form1._size5">
+            <summary>
+            variable to create triangle side
+            </summary>
+        </member>
+        <member name="F:GraphicalProgramming.Form1._size6">
+            <summary>
+            variable to create triangle side
+            </summary>
+        </member>
+        <member name="F:GraphicalProgramming.Form1._size7">
+            <summary>
+            variable to create triangle side
+            </summary>
+        </member>
+        <member name="F:GraphicalProgramming.Form1._size8">
+            <summary>
+            variable to create triangle side
+            </summary>
+        </member>
+        <member name="F:GraphicalProgramming.Form1._size9">
+            <summary>
+            variable to create triangle side
+            </summary>
+        </member>
+        <member name="F:GraphicalProgramming.Form1._size10">
+            <summary>
+            variable to create triangle side
+            </summary>
+        </member>
+        <member name="F:GraphicalProgramming.Form1._size11">
+            <summary>
+            variable to create triangle side
+            </summary>
+        </member>
+        <member name="F:GraphicalProgramming.Form1._size12">
+            <summary>
+            variable to create triangle side
+            </summary>
+        </member>
+        <member name="M:GraphicalProgramming.Form1.loadToolStripMenuItem_Click(System.Object,System.EventArgs)">
+            <summary>
+            This function will load the text file from desired location
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:GraphicalProgramming.Form1.saveToolStripMenuItem_Click(System.Object,System.EventArgs)">
+            <summary>
+            to save running program to textfile. 
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:GraphicalProgramming.Form1.Pnl_Draw_MouseClick(System.Object,System.Windows.Forms.MouseEventArgs)">
+            <summary>
+            On clicking drawing panel, it displays x and y axis value
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:GraphicalProgramming.Form1.xi1">
+            <summary>
+            for Triangle sides
+            </summary>
+        </member>
+        <member name="F:GraphicalProgramming.Form1.yi1">
+            <summary>
+            for Triangle sides
+            </summary>
+        </member>
+        <member name="F:GraphicalProgramming.Form1.xi2">
+            <summary>
+            for Triangle sides
+            </summary>
+        </member>
+        <member name="F:GraphicalProgramming.Form1.yi2">
+            <summary>
+            for Triangle sides
+            </summary>
+        </member>
+        <member name="F:GraphicalProgramming.Form1.xii1">
+            <summary>
+            for Triangle sides
+            </summary>
+        </member>
+        <member name="F:GraphicalProgramming.Form1.yii1">
+            <summary>
+            for Triangle sides
+            </summary>
+        </member>
+        <member name="F:GraphicalProgramming.Form1.xii2">
+            <summary>
+            for Triangle sides
+            </summary>
+        </member>
+        <member name="F:GraphicalProgramming.Form1.yii2">
+            <summary>
+            for Triangle sides
+            </summary>
+        </member>
+        <member name="F:GraphicalProgramming.Form1.xiii1">
+            <summary>
+            for Triangle sides
+            </summary>
+        </member>
+        <member name="F:GraphicalProgramming.Form1.yiii1">
+            <summary>
+            for Triangle sides
+            </summary>
+        </member>
+        <member name="F:GraphicalProgramming.Form1.xiii2">
+            <summary>
+            for Triangle sides
+            </summary>
+        </member>
+        <member name="F:GraphicalProgramming.Form1.yiii2">
+            <summary>
+            for Triangle sides
+            </summary>
+        </member>
+        <member name="M:GraphicalProgramming.Form1.btn_run_Click(System.Object,System.EventArgs)">
+            <summary>
+            all logic to run command in application
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:GraphicalProgramming.Form1.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:GraphicalProgramming.Form1.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:GraphicalProgramming.Form1.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:GraphicalProgramming.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="M:GraphicalProgramming.Rectangle.Draw(System.Drawing.Graphics)">
+            <summary>
+            this function will draw rectangle
+            </summary>
+            <param name="g"></param>
+        </member>
+        <member name="M:GraphicalProgramming.Rectangle.set(System.Int32,System.Drawing.Brush,System.Drawing.Color,System.Int32[])">
+            <summary>
+            Setting the required properties for rectangle
+            </summary>
+            <param name="texturestyle"></param>
+            <param name="bb"></param>
+            <param name="c1"></param>
+            <param name="list"></param>
+        </member>
+        <member name="M:GraphicalProgramming.Shape.Draw(System.Drawing.Graphics)">
+            <summary>
+            Graphic Values
+            </summary>
+            <param name="g"></param>
+        </member>
+        <member name="M:GraphicalProgramming.Shape.set(System.Int32,System.Drawing.Brush,System.Drawing.Color,System.Int32[])">
+            <summary>
+            passing the value from button click of form to the shape
+            </summary>
+            <param name="texturestyle">define texture</param>
+            <param name="bb">define properties of brush</param>
+            <param name="c">define color</param>
+            <param name="list">list of parameter</param>
+        </member>
+        <member name="M:GraphicalProgramming.ShapeFactory.GetShape(System.String)">
+            <summary>
+            checking the type of shape
+            </summary>
+            <param name="shapeType"></param>
+            <returns>return shape object </returns>
+        </member>
+        <member name="F:GraphicalProgramming.Triangle.xi1">
+            <summary>
+            Triangle side
+            </summary>
+        </member>
+        <member name="F:GraphicalProgramming.Triangle.yi1">
+            <summary>
+            Triangle side
+            </summary>
+        </member>
+        <member name="F:GraphicalProgramming.Triangle.xi2">
+            <summary>
+            Triangle side
+            </summary>
+        </member>
+        <member name="F:GraphicalProgramming.Triangle.yi2">
+            <summary>
+            Triangle side
+            </summary>
+        </member>
+        <member name="F:GraphicalProgramming.Triangle.xii1">
+            <summary>
+            Triangle side
+            </summary>
+        </member>
+        <member name="F:GraphicalProgramming.Triangle.yii1">
+            <summary>
+            Triangle side
+            </summary>
+        </member>
+        <member name="F:GraphicalProgramming.Triangle.xii2">
+            <summary>
+            Triangle side
+            </summary>
+        </member>
+        <member name="F:GraphicalProgramming.Triangle.yii2">
+            <summary>
+            Triangle side
+            </summary>
+        </member>
+        <member name="F:GraphicalProgramming.Triangle.xiii1">
+            <summary>
+            Triangle side
+            </summary>
+        </member>
+        <member name="F:GraphicalProgramming.Triangle.yiii1">
+            <summary>
+            Triangle side
+            </summary>
+        </member>
+        <member name="F:GraphicalProgramming.Triangle.xiii2">
+            <summary>
+            Triangle side
+            </summary>
+        </member>
+        <member name="F:GraphicalProgramming.Triangle.yiii2">
+            <summary>
+            Triangle side
+            </summary>
+        </member>
+        <member name="M:GraphicalProgramming.Triangle.set(System.Int32,System.Drawing.Brush,System.Drawing.Color,System.Int32[])">
+            <summary>
+            geting value of coordinates to draw triangle
+            </summary>
+            <param name="texturestyle"></param>
+            <param name="bb"></param>
+            <param name="c1"></param>
+            <param name="list"></param>
+        </member>
+        <member name="T:FinalAssignment.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:FinalAssignment.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:FinalAssignment.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>
